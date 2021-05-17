@@ -1,0 +1,10 @@
+elk/wapiti
+chital
+stag
+hart
+hind
+brocket
+chital
+roe
+reindeer/caribou
+moose
